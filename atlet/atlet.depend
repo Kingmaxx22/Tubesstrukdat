@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1734100329 source:d:\tubes std\atlet\main.cpp
+	<iostream>
+	<string>
+	"../atlet.h"
+
+1734101791 d:\tubes std\atlet.h
+	<iostream>
+	<string>
+
+1734101860 source:d:\tubes std\atlet\atlet.cpp
+	<iostream>
+	<string>
+	"atlet.h"
+
+1734100285 d:\tubes std\atlet\atlet.h
+	<iostream>
+	<string>
+
